@@ -33,5 +33,5 @@ public boolean dispatchTouchEvent(MotionEvent ev) {
     }
 ```
 
-更改后的运行效果如下：
+更改后的运行效果如下：<br>
 <img src="solve.gif" width=375 height=557 /><br>
