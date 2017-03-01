@@ -31,3 +31,7 @@ public boolean dispatchTouchEvent(MotionEvent ev) {
         }
         return super.dispatchTouchEvent(ev);
     }
+```
+
+更改后的运行效果如下：
+<img src="solve.gif" width=375 height=557 /><br>
